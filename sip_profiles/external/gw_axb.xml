@@ -1,0 +1,8 @@
+<include>
+  <gateway name="gw_axb">
+  <param name="realm" value="172.16.195.78:5060"/>
+  <param name="username" value="862152530002"/>
+  <param name="password" value="862152530002"/>
+  <!--<param name="caller-id-in-from" value="true"/>-->
+  </gateway>
+</include>
