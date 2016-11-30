@@ -1,4 +1,2 @@
 hello
-eee
-bbb
-cccc
+862152530001呼叫00862152530002可以呼叫到freeswitch系统

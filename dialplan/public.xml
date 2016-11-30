@@ -12,9 +12,19 @@
 <!-- http://wiki.freeswitch.org/wiki/Dialplan_XML -->
 <include>
   <context name="public">
-    
+
+  <extension name="esl_inbound">
+    <condition field="destination_number" expression=".*">
+        <action application="set" data="effective_caller_id_number=862152530002"/>
+        <action application="set" data="servicekey=95013service"/>
+        <action application="set" data="park_timeout=30"/>
+        <action application="park" data=""/>
+    </condition>
+</extension>
+  
+  
   <extension name="echo">
-      <condition field="destination_number" expression=".*">
+      <condition field="destination_number" expression="11111111111111111">
         <!--<action application="answer"/>-->
         <!--<action application="echo"/>-->
         <action application="set" data="effective_caller_id_number=862152530002"/>
