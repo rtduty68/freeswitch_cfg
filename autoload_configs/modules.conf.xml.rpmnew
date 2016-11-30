@@ -13,7 +13,7 @@
     <load module="mod_enum"/>
 
     <!-- XML Interfaces -->
-    <load module="mod_xml_rpc"/>
+    <!-- <load module="mod_xml_rpc"/> -->
     <!-- <load module="mod_xml_curl"/> -->
     <!-- <load module="mod_xml_cdr"/> -->
     <!-- <load module="mod_xml_radius"/> -->
@@ -71,6 +71,7 @@
     <!--<load module="mod_fsk"/>-->
     <!--<load module="mod_spy"/>-->
     <!--<load module="mod_sms"/>-->
+    <!--<load module="mod_sms_flowroute"/>-->
     <!--<load module="mod_smpp"/>-->
     <!--<load module="mod_random"/>-->
     <load module="mod_httapi"/>
@@ -100,6 +101,7 @@
     <load module="mod_opus"/>
 
     <!-- File Format Interfaces -->
+    <!--<load module="mod_av"/>-->
     <load module="mod_sndfile"/>
     <load module="mod_native_file"/>
     <load module="mod_png"/>
@@ -115,7 +117,7 @@
     <!-- <load module="mod_posix_timer"/> -->
 
     <!-- Languages -->
-    <load module="mod_v8"/>
+    <!-- <load module="mod_v8"/> -->
     <!-- <load module="mod_perl"/> -->
     <!-- <load module="mod_python"/> -->
     <!-- <load module="mod_java"/> -->
