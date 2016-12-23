@@ -1,0 +1,587 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/workspace/axb_beijing/fsaspaas/mod_esl_operate.py",
+			"settings":
+			{
+				"buffer_size": 5969,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/workspace/axb_beijing/fsaspaas/mod_esl_event.py",
+			"settings":
+			{
+				"buffer_size": 3733,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/workspace/axb/mod_esl_operate.py",
+			"settings":
+			{
+				"buffer_size": 3676,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 27 files for \"cdr\"\n\nE:\\workspace\\axb_beijing\\fsaspaas\\config.py:\n   21          <!-- 是否转发2833 -->\n   22          <!-- <action application=\"set\" data=\"pass-rfc2833=true\"/> -->\n   23:         <!-- 是否在hangup_complete消息中生成xml的cdr -->\n   24          <!-- <action application=\"set\" data=\"hangup_complete_with_xml=true\"/> -->\n   25          <!-- 自定义的挂断原因 -->\n   ..\n   30  </extension>\n   31  '''\n   32: '''FS odbc_cdr配置\n   33: 参见odbc_cdr.conf.xml\n   34  '''\n   35  \n\nE:\\workspace\\axb_beijing\\fshttpclient\\eslroute.py:\n    8      #TNS = '(description=(address_list=(address=(protocol=tcp)(host=192.168.106.45)(port=1521)))(connect_data=(service_name=orcl)))'\n    9      #debug = True\n   10:     #cdr_server = ('10.10.13.40', 6666)\n   11:     #cdr_server = ('192.168.107.163', 6666)\n   12:     #cur_cdrinfo_file='cur_cdrinfo.txt'\n   13:     #ACRLOAD_DIR = '/home/lyl/cdr/load'\n   14:     #ACRDST_DIR = '/home/lyl/cdr/dst'\n   15      #acrlogfile = '/home/lyl/acrload/acrload.log'\n   16      \"\"\"\n\n9 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 1021,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/E/workspace/axb_beijing/fshttpclient/eslroute.py",
+			"settings":
+			{
+				"buffer_size": 11505,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/workspace/axb_beijing/fsaspaas/config.py",
+			"settings":
+			{
+				"buffer_size": 1753,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/workspace/freeswitch_cfg/dialplan",
+		"/E/workspace/freeswitch_cfg/dialplan/public",
+		"/E/workspace/freeswitch_cfg/sip_profiles/external",
+		"/E/workspace/freeswitch_cfg/sip_profiles/external-ipv6",
+		"/E/workspace/axb",
+		"/E/workspace/axb_beijing",
+		"/E/workspace/axb_beijing/fsaspaas",
+		"/E/workspace/axb_beijing/fshttpclient"
+	],
+	"file_history":
+	[
+		"/E/workspace/axb/mod_esl.py",
+		"/E/workspace/fswhttpcontrol/README.md",
+		"/E/workspace/fswhttpcontrol/sftp-config.json",
+		"/E/workspace/axb/swagger.yaml",
+		"/C/Users/lubin.NET-2COM/Downloads/python-client-generated (1)/swagger_client/api_client.py",
+		"/C/Users/lubin.NET-2COM/Downloads/python-client-generated (1)/README.md",
+		"/C/Users/lubin.NET-2COM/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/lubin.NET-2COM/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/C/Users/lubin.NET-2COM/Downloads/python-client-generated (1)/test/test_callcontrol_api.py",
+		"/C/Users/lubin.NET-2COM/Downloads/python-client-generated (1)/swagger_client/rest.py",
+		"/C/Users/lubin.NET-2COM/Downloads/python-client-generated (1)/swagger_client/__init__.py",
+		"/D/greensoftw/Shadowsocks-win-2.5.2/user-rule.txt",
+		"/D/greensoftw/Shadowsocks-win-2.5.2/pac.txt",
+		"/C/Users/lubin.NET-2COM/Downloads/swagger.json",
+		"/E/workspace/axb/mod_esl_operate.py",
+		"/E/workspace/axb/config.py",
+		"/C/Users/lubin.NET-2COM/Downloads/python-flask-server-generated/python-flask-server/README.md",
+		"/C/Users/lubin.NET-2COM/Downloads/swagger.yaml",
+		"/E/workspace/axb/fshttpclient.py",
+		"/E/workspace/axb/mod_esl_event.py",
+		"/E/workspace/axb/global_var.py",
+		"/E/workspace/fswhttpcontrol/fs_http_cntl/server/response.jsx",
+		"/E/workspace/freeswitch_cfg/dialplan/public.xml",
+		"/E/workspace/axb/.gitignore",
+		"/E/workspace/fswhttpcontrol/fs_http_cntl/server/main.js",
+		"/E/workspace/fswhttpcontrol/.gitignore",
+		"/E/workspace/axb/sftp-config.json",
+		"/E/workspace/freeswitch_cfg/sip_profiles/external/gw_axb.xml",
+		"/E/workspace/freeswitch_cfg/README.md",
+		"/E/workspace/axb/readme.txt",
+		"/E/workspace/freeswitch_cfg/.gitignore",
+		"/E/workspace/axb/mod_interface.py",
+		"/E/workspace/axb/webserver.py",
+		"/E/workspace/axb/FSasPaaS.py",
+		"/E/workspace/freeswitch_cfg/sftp-config.json",
+		"/E/workspace/freeswitch_cfg/sip_profiles/external-ipv6.xml",
+		"/E/workspace/freeswitch_cfg/dialplan/default.xml",
+		"/E/workspace/freeswitch_cfg/sip_profiles/external.xml",
+		"/E/workspace/freeswitch_cfg/lang/de/de.xml",
+		"/E/workspace/freeswitch_cfg/sip_profiles/external/example.xml",
+		"/E/workspace/freeswitch_cfg/notify-voicemail.tpl",
+		"/E/workspace/freeswitch_cfg/chatplan/default.xml",
+		"/E/techs/webrtc/guidebook_src/basic_data/static/localmedia.html",
+		"/E/basetechs/node.js/worksapce/hello/sftp-config.json",
+		"/E/techs/webrtc/5d809162-5e55-4e27-a68b-c06cdb5f5962/Chapter02/main.js",
+		"/E/techs/webrtc/5d809162-5e55-4e27-a68b-c06cdb5f5962/Chapter04/index.js",
+		"/E/techs/webrtc/guidebook_src/basic_data/sftp-config.json",
+		"/E/techs/webrtc/guidebook_src/basic_data/node_modules/webrtc-adapter/out/adapter.js",
+		"/E/techs/webrtc/guidebook_src/basic_data/static/data.html",
+		"/E/techs/webrtc/guidebook_src/basic_data/static/start.html",
+		"/E/basetechs/node.js/worksapce/learn_webrtc/sftp-config.json",
+		"/E/basetechs/node.js/worksapce/hello/hello.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\workspace\\axb_beijing",
+			"E:\\workspace\\axb",
+			"E:\\workspace\\freeswitch_cfg",
+			"E:\\techs\\webrtc\\5d809162-5e55-4e27-a68b-c06cdb5f5962",
+			"E:\\techs\\webrtc\\guidebook_src\\basic_data",
+			"E:\\techs\\webrtc\\5d809162-5e55-4e27-a68b-c06cdb5f5962\\Chapter05",
+			"E:\\techs\\webrtc\\guidebook_src\\basic_data",
+			"E:\\techs\\webrtc\\5d809162-5e55-4e27-a68b-c06cdb5f5962"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cdr",
+			"TZ01_95013",
+			"platform_key",
+			"service_key",
+			"95013service",
+			"TZ01_95013",
+			"rtc",
+			"process_request parse param error",
+			"_process_body",
+			"total,total_ack,stat_count",
+			"response timeout",
+			"New connection from",
+			"_service_key",
+			"service_key",
+			"park",
+			"process_input",
+			"process_response",
+			"method_hash",
+			"alibaba.aliqin.secret.call.releas",
+			"_process_header",
+			"sandbox750a140e5a971bcb193efa0ee",
+			"push",
+			"sign",
+			"client_socket",
+			"server_interface",
+			"httpc_freeswitch",
+			"sign",
+			"main",
+			"httpc_freeswitch",
+			"bridge",
+			"example.com",
+			"include",
+			"track",
+			"new MediaStream",
+			"part",
+			"video",
+			"yourConnection",
+			"adapter.js",
+			"adaptor.js",
+			"attachMediaStream"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/workspace/axb_beijing/fsaspaas/mod_esl_operate.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5646,
+								5646
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1220.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/workspace/axb_beijing/fsaspaas/mod_esl_event.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3177,
+								3574
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/workspace/axb/mod_esl_operate.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1021,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										232,
+										235
+									],
+									[
+										417,
+										420
+									],
+									[
+										437,
+										440
+									],
+									[
+										698,
+										701
+									],
+									[
+										745,
+										748
+									],
+									[
+										800,
+										803
+									],
+									[
+										818,
+										821
+									],
+									[
+										868,
+										871
+									],
+									[
+										914,
+										917
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								699,
+								699
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/E/workspace/axb_beijing/fshttpclient/eslroute.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1263,
+								1263
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/workspace/axb_beijing/fsaspaas/config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1457,
+								1457
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 318.0
+	},
+	"pinned_build_system": "",
+	"project": "freeswitch_cfg.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"h",
+				"hello.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
